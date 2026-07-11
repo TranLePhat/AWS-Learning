@@ -69,7 +69,7 @@ The lifecycle of an EC2 instance includes several states.
 > **Image**
 
 ```md
-![EC2 Instance Lifecycle](img/Life-Cycle-EC2.png)
+![EC2 Instance Lifecycle](./img/Life-Cycle-EC2.png)
 ```
 
 Typical states:
